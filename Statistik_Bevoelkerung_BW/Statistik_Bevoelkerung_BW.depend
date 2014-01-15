@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1359486482 source:/home/cmdapolol92/Dokumente/Programmierung/C_Cpp/Statistik_Bevoelkerung_BW/analyser.c
+	"analyser.h"
+
+1359486447 /home/cmdapolol92/Dokumente/Programmierung/C_Cpp/Statistik_Bevoelkerung_BW/analyser.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1360413616 source:/home/cmdapolol92/Dokumente/Programmierung/C_Cpp/Statistik_Bevoelkerung_BW/main.c
+	<stdio.h>
+	<stdlib.h>
+	"analyser.h"
+
